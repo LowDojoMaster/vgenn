@@ -1,0 +1,14 @@
+{
+  "name": "vgens",
+  "version": "1.0.0",
+  "description": "vGen",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kenshin.",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.3"
+  }
+}
